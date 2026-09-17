@@ -1,0 +1,6 @@
+recipe:
+  description: Modern CJK to Small Seal OpenCC conversion
+
+install_files: >-
+  opencc/small_seal.ocd2
+  opencc/small_seal.json
